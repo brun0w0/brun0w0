@@ -1,18 +1,17 @@
 # ¡Hola! 👋, Soy Bruno Llovera. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=brun0w0.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
-
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
+Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecnologías de la Información, Área de Desarrollo de Software Multiplataforma. Actualmente me siento satisfecho de mi carrera ya que quisiera desempeñarme profesionalmente en un futuro en un Desarrollador Software. Mi sueño es trabajar y vivir de eso, de lo que mas me interesa.
+* **Estoy interesado en el desarrollo web, desarrollo movil y desarrollo de software**
+- 🌱 Actualmente estoy aprendiendo ...
   - Java
+  - JavaScript
   - React js
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
