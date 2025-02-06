@@ -26,14 +26,12 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 </div>
 
 
-<h2>👀 Mis Github Stats</h2>
+<h1>👀 Mis Lenguajes</h1>
 
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
+    
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
