@@ -14,7 +14,7 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
  <h1 align="center">Canción favorita<h1/>
 <div align="center">
     <p>
-  <img src="https://suffragetterecords.com.au/cdn/shop/files/sabrinaCD_796d3a9c-d509-4908-836d-c24d110f2978.png?v=1724389586&width=416" width="300" style="border-radius: 50%;"/>
+  <img href="https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS?si=b1d45996265d4818" src="https://suffragetterecords.com.au/cdn/shop/files/sabrinaCD_796d3a9c-d509-4908-836d-c24d110f2978.png?v=1724389586&width=416" width="300" style="border-radius: 50%;"/>
      <br> Juno <br> Sabrina Carpenter <br><br>
      <a href="https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS?si=b1d45996265d4818" target="_blank">
     <img src=https://img.shields.io/badge/Escuchar-%ff5851db.svg?color=1ed760&style=for-the-badge&logo=spotify&logoColor=white alt=instagram style="margin-bottom: 5px; border-radius: 10px;" />
