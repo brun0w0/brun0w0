@@ -16,7 +16,7 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 
 <div>
    <p align="center">
-    <b><em>Canción favorita:</em></b> <br/>
+    <h1>Canción favorita:</h1> <br/>
     <img src="https://i.scdn.co/image/ab67616d0000b2735e1ec3f6b114e4e4924f006f" width="200" style="border-radius:50%;" alt"" />
      <br> Juno <br> Sabrina Carpenter
   </p>
