@@ -1,10 +1,10 @@
-# ¡Hola! 👋, Soy Bruno Llovera. 
+# ¡Hello World! 🌎, I'm Bruno Llovera. 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecnologías de la Información, Área de Desarrollo de Software Multiplataforma. Actualmente me siento satisfecho de mi carrera ya que quisiera desempeñarme profesionalmente en un futuro en un Desarrollador Software. Mi sueño es trabajar y vivir de eso, de lo que mas me interesa.
-* **Estoy interesado en el desarrollo web, desarrollo movil y desarrollo de software**
+* ✨ **Estoy interesado en el desarrollo web, desarrollo movil y desarrollo de software**
 - 🌱 Actualmente estoy aprendiendo y seguire.
 
 <p align="center">
@@ -44,6 +44,7 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+<a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0d9b8e.svg?logo=fastapi&logoColor=white"></a>
 </p>
 
 <h4 align="center">⚙ Software</h4>
@@ -53,15 +54,19 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-0078d7.svg?logo=discord&logoColor=white"></a>
+<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289da.svg?logo=discord&logoColor=white"></a>
+<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-a259ff.svg?logo=figma&logoColor=white"></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-ffdf00.svg?logo=linux&logoColor=black"></a>
+<a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?logo=adobeillustrator&logoColor=white"></a>
 </p>
 
 <h4 align="center">☁ Cloud and Providers</h4>
 
 <p align="center">
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Pages-black.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-5a67d8.svg?logo=prisma&logoColor=white"></a>
 </p>
 
 <br/>
