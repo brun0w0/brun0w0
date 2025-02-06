@@ -11,7 +11,7 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br>
 <div>
- <p align="center">Canción favorita<p/>
+ <h1 align="center">Canción favorita<h1/>
 <div align="center">
     <p>
   <img src="https://suffragetterecords.com.au/cdn/shop/files/sabrinaCD_796d3a9c-d509-4908-836d-c24d110f2978.png?v=1724389586&width=416" width="300" style="border-radius: 50%;"/>
