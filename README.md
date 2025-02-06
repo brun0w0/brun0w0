@@ -10,6 +10,7 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br>
+<div>
  <p align="center">Canción favorita<p/>
 <div align="center">
     <p>
@@ -20,7 +21,7 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 </a>
       <p/>
 </div>
-
+</div>
 <h1 align="center"> Mis Lenguajes</h1>
 
 <h4 align="center">💻 Programming Languages (and HTML)</h4>
