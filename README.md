@@ -37,7 +37,18 @@ __Check out my GitHub repository:__
 ![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
 
----------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
 
-Date: 18/11/2021
+
+
+
+
+
+
+
+
+
+- Default theme
+
+![spotify-github-profile](/img/default.svg)
+
+
