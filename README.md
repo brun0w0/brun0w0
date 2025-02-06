@@ -75,6 +75,9 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
   <br />
   <br />
   <br />
+
+  <!--
 <a href="https://wakatime.com/@brun0w0">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brun0w0" />
   </a></div>
+-->
