@@ -16,13 +16,9 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 __Check out my GitHub repository:__
 
 <div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
+   <p align="center">
+    <b><em>Canción favorita:</em></b> <br/>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/21B4gaTWnTkuSh77iWEXdS?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   </p>
 </div>
 
@@ -30,10 +26,7 @@ __Check out my GitHub repository:__
 <h2>👀 My github Stats</h2>
 
 <div>
- <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p>
+
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
