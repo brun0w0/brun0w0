@@ -18,7 +18,7 @@ __Check out my GitHub repository:__
 <div>
    <p align="center">
     <b><em>Canción favorita:</em></b> <br/>
-    <img src="https://i.scdn.co/image/ab67616d0000b2735e1ec3f6b114e4e4924f006f" alt"" />
+    <img src="https://i.scdn.co/image/ab67616d0000b2735e1ec3f6b114e4e4924f006f" width="100px" alt"" />
   </p>
 </div>
 
