@@ -13,8 +13,8 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
  <p align="center">Canción favorita<p/>
 <div align="center">
     <p>
-  <img src="https://udiscover.mx/cdn/shop/files/Final-CD_b2629461-c982-45bf-abf0-5c233649dd9c.png?v=1721841061" width="400" style="border-radius: 50%;"/>
-     <h3>Juno<h3/> <br> Sabrina Carpenter <br><br>
+  <img src="https://suffragetterecords.com.au/cdn/shop/files/sabrinaCD_796d3a9c-d509-4908-836d-c24d110f2978.png?v=1724389586&width=416" width="300" style="border-radius: 50%;"/>
+     <br> Juno <br> Sabrina Carpenter <br><br>
      <a href="https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS?si=b1d45996265d4818" target="_blank">
     <img src=https://img.shields.io/badge/Escuchar-%ff5851db.svg?color=1ed760&style=for-the-badge&logo=spotify&logoColor=white alt=instagram style="margin-bottom: 5px; border-radius: 10px;" />
 </a>
