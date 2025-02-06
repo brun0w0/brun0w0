@@ -10,7 +10,11 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
   - JavaScript
   - React js
 
+### Hello, nerds 👋
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br>
  <p align="center">Canción favorita<p/>
 <div align="center">
     <p>
