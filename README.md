@@ -13,12 +13,13 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
   - JavaScript
   - React js
 
-__Check out my GitHub repository:__
 
 <div>
    <p align="center">
     <b><em>Canción favorita:</em></b> <br/>
     <img src="https://i.scdn.co/image/ab67616d0000b2735e1ec3f6b114e4e4924f006f" width="100px" alt"" />
+     <h2>Juno<h2/>
+       <p>Sabrina Carpenter</p>
   </p>
 </div>
 
