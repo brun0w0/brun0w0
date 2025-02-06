@@ -64,3 +64,18 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 </p>
 
 <br/>
+
+<div align="center">
+  <h2>Stats</h2>
+  <br />
+  <a href="https://github.com/adrielisa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun0w0&theme=dark&hide_langs_below=1" />
+  </a
+  <br />
+  <br />
+  <br />
+  <br />
+  <a href="https://wakatime.com/@adrielisa">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brun0w0" />
+  </a>
+</div>
