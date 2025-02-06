@@ -16,7 +16,9 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
   <p align="center">
     <h1>Canción favorita<h1/>
   <img src="https://i.scdn.co/image/ab67616d0000b2735e1ec3f6b114e4e4924f006f" width="200" style="border-radius: 50%;"/>
-     <br> <h4>Juno<h4/> <br> <h5>Sabrina Carpenter<h5/> <br><br>
+      <p>
+     <br> Juno <br> Sabrina Carpenter <br><br>
+        </p>
      <a href="https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS?si=b1d45996265d4818" target="_blank">
     <img src=https://img.shields.io/badge/Escuchar-%ff5851db.svg?color=1ed760&style=for-the-badge&logo=spotify&logoColor=white alt=instagram style="margin-bottom: 5px; border-radius: 10px;" />
 </a>
