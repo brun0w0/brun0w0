@@ -26,7 +26,7 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 <h4 align="center">💻 Programming Languages (and HTML)</h4>
 
 <p align="center">
-<a href="https://github.com/search?q=user%3ASammwyy1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ASammwyy1+language%3Acsharp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C%23-5353ec.svg?logo=c++&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -40,9 +40,7 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 
 <p align="center">
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
-<a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 </p>
 
