@@ -18,7 +18,7 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
    <p align="center">
     <h1>Canción favorita:</h1> <br/>
     <img src="https://i.scdn.co/image/ab67616d0000b2735e1ec3f6b114e4e4924f006f" width="200" style="border-radius:50%;" alt"" />
-     <br> Juno <br> Sabrina Carpenter
+     <br> Juno <br> Sabrina Carpenter <br>
      <a href="https://instagram.com/abdo.achhoubi" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
