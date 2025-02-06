@@ -26,7 +26,7 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 <h4 align="center">💻 Programming Languages (and HTML)</h4>
 
 <p align="center">
-<a href="https://github.com/search?q=user%3ASammwyy1+language%3Ac++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=black" style="border-radius: 8px;" />
+<a href="https://github.com/search?q=user%3ASammwyy1+language%3Ac++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor="00599C" style="border-radius: 8px;" />
 </a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
