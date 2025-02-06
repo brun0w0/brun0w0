@@ -18,7 +18,7 @@ __Check out my GitHub repository:__
 <div>
    <p align="center">
     <b><em>Canción favorita:</em></b> <br/>
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/21B4gaTWnTkuSh77iWEXdS?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <img src="https://i.scdn.co/image/ab67616d0000b2735e1ec3f6b114e4e4924f006f" alt"" />
   </p>
 </div>
 
