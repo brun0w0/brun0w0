@@ -8,15 +8,14 @@ Soy estudiante en la Universidad Tecnológica de Cancún, estudio un TSU en Tecn
 - 🌱 Actualmente estoy aprendiendo y seguire.
 
 <p align="center">
-  <img src="" width="27px">
   <br>
 <div>
  <h1 align="center">Canción favorita<h1/>
 <div align="center">
     <p>
-  <img href="https://open.spotify.com/track/1SdJK81uqfXNIhlZI9vjlg?si=6823f7f476cb41c1" src="https://lh3.googleusercontent.com/proxy/O74E8vlZtYhGNf5g6ZMJqAzyuBkrsZcLdbvft0j8kfJyoIK1BUum8NDVNj8sCOygUQC2E37ylJnyLOgMLiU9F5TazYPhpYzSKX6hDLHWN7cM97PmqPmW-TAZAfSE-9n1rw" width="300" style="border-radius: 50%;"/>
+  <img href="" src="https://lh3.googleusercontent.com/proxy/O74E8vlZtYhGNf5g6ZMJqAzyuBkrsZcLdbvft0j8kfJyoIK1BUum8NDVNj8sCOygUQC2E37ylJnyLOgMLiU9F5TazYPhpYzSKX6hDLHWN7cM97PmqPmW-TAZAfSE-9n1rw" width="300" style="border-radius: 50%;"/>
      <br> twilight zone <br> Ariana Grande <br><br>
-     <a href="https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS?si=b1d45996265d4818" target="_blank">
+     <a href="https://open.spotify.com/track/1SdJK81uqfXNIhlZI9vjlg?si=3d8ad85886454825" target="_blank">
     <img src=https://img.shields.io/badge/Escuchar-%ff5851db.svg?color=1ed760&style=for-the-badge&logo=spotify&logoColor=white alt=instagram style="margin-bottom: 5px; border-radius: 10px;" />
 </a>
       <p/>
